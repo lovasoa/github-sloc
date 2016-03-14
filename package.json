@@ -1,7 +1,7 @@
 {
   "title": "Github SLOC",
   "name": "github-sloc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prints the number of lines of code of a project in its github project page.",
   "main": "index.js",
   "author": "Ophir LOJKINE (lovasoa)",
